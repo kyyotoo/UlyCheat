@@ -148,6 +148,10 @@
   - ✅ KRNL
   - ✅ Hydrogen
   - ✅ Wave
+  - ✅ Solara
+  - ✅ Xeno
+  - ✅ Volcano
+  - ✅ bunni.lol
 
 ### Étapes
 
@@ -156,7 +160,7 @@
 3. **Exécuter** le script :
 
 ```lua
-loadstring(game:HttpGet("VOTRE_LIEN_RAW"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyyotoo/UlyCheat/refs/heads/main/src/Sniper%20Duels/main.lua"))()
 ```
 
 Ou copier/coller le contenu de `main.lua` directement.
@@ -240,5 +244,6 @@ Votre executor ne supporte probablement pas la **Drawing Library**. Essayez un a
 **Made with ❤️ by UlyCheat**
 
 ![Footer](https://img.shields.io/badge/UlyCheat-Sniper%20Duels%20V3-blue?style=for-the-badge)
+
 
 </div>
